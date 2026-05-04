@@ -59,7 +59,7 @@ Aplicație web dezvoltată în **Laravel** pentru gestionarea unei clinici medic
 
 ---
 
-## 🛠️ Tehnologii utilizate
+## Tehnologii utilizate
 - Backend: Laravel 12
 - PHP 8.4
 - MySQL
