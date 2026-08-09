@@ -1,4 +1,4 @@
-# Spitalul Life - Sistem Management Medical
+# E-Spital - Sistem Management Medical
 
 Aplicație web dezvoltată în **Laravel** pentru gestionarea unei clinici medicale. Sistemul permite administrarea pacienților, medicilor, programărilor, rețetelor, diagnosticelor, tratamentelor și trimiterilor.
 
