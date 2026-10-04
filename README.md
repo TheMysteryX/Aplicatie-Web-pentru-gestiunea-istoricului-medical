@@ -100,7 +100,7 @@ Aplicația respectă modelul **MVC** din Laravel:
 
 ## Structura Bazei de Date
 
-#Diagrama Entitate-Relatie
+**Diagrama Entitate-Relatie:**
 <img width="1520" height="897" alt="Screenshot 2026-05-02 185052" src="https://github.com/user-attachments/assets/84553ac5-576e-45a5-bb5d-e73296ce8559" />
 
 După cum se poate vedea în diagrama de mai sus, în baza noastră de date avem admini, medici și pacienți, care fiecare la randul lor au programari, diagnostice, rețete, tratamente si trimiteri. Pe langă acestea, fiecare medic are o specializare, iar legătura dintre medici si pacienți este făcută cu ajutorul unei tabele pivot (Un medic poate avea mai mulți pacienți, dar și un pacient poate să viziteze mai mulți medici).  În urma unei programări rezultă un diagnostic, în urma unui diagnostic rezultă o rețetă și, dacă e cazul, un tratament recomandat de medic. De asemenea, un medic poate să îi ofere unui pacient o trimitere din diverse motive.
