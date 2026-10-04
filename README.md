@@ -13,6 +13,7 @@ Aplicația folosește o arhitectură client–server, 3 tipuri de utilizatori, c
 
 ## Cuprins
 
+- [Capturi de ecran](#-capturi-de-ecran)
 - [Funcționalități](#-funcționalități)
 - [Tehnologii](#-tehnologii)
 - [Arhitectură](#-arhitectură)
@@ -27,6 +28,49 @@ Aplicația folosește o arhitectură client–server, 3 tipuri de utilizatori, c
 - [Documentație completă](#-documentație-completă)
 
 ---
+
+## Capturi de ecran
+
+**Autentificare:**
+<img width="2542" height="1581" alt="image" src="https://github.com/user-attachments/assets/7ffc3ac1-7ddc-4c54-8fb0-1ab290df4c81" />
+
+**Dashboard Admin:**
+<img width="2542" height="2509" alt="image" src="https://github.com/user-attachments/assets/98c96664-5b82-4d70-a6bf-92c69f452c22" />
+
+**Vizualizare Profil Medic pentru Admin:**
+<img width="2542" height="1747" alt="image" src="https://github.com/user-attachments/assets/96ff1e1e-2fb7-4f26-bfa2-6f13b05aca94" />
+> Apar toate programarile, rețetele, etc doar efectuate de medicul respectiv.
+**Adaugare/Editare Medic:**
+<img width="2542" height="1484" alt="image" src="https://github.com/user-attachments/assets/770e4bb8-f1fd-4db9-a255-0b5d8ddc9482" />
+
+**Dashboard Medic:**
+<img width="2542" height="3102" alt="image" src="https://github.com/user-attachments/assets/9b4c9566-3ce0-4bb4-996a-28678fd1a50f" />
+
+**Dashboard Programari pentru Medic Logat**
+<img width="2542" height="3876" alt="image" src="https://github.com/user-attachments/assets/5ec66d94-f182-4f44-be87-2fc1f081c839" />
+> Dacă medicul încearcă să seteze o programare ca finalizată, dar data programării este în viitor, atunci va primi un mesaj de eroare. La fel și invers.
+
+**Profil Pacient al Medicului Logat**
+<img width="2542" height="1484" alt="image" src="https://github.com/user-attachments/assets/3623ef47-a909-42c1-bc10-16af4181fa34" />
+> Apare istoricul pe care pacientul a avut doar cu acel medic, insă medicul respeciv poate vedea și istoricul complet al acestuia în butonul de mai jos (ex: un cardiolog are un pacient cu diabet).
+> <img width="2540" height="874" alt="image" src="https://github.com/user-attachments/assets/6f388a79-565c-470c-b601-44037c9b7447" />
+
+**Adaugare Pacient Existent în Sistem**
+<img width="2542" height="1411" alt="image" src="https://github.com/user-attachments/assets/b99dc46b-2b74-44b0-a52c-c06fe1e6da54" />
+> Un medic poate atât să adauge un pacient nou, completând datele necesare, dar să și adauge un pacient deja existent în sistem în lista sa de pacienți, pentru a evita date duplicate.
+
+**Dashboard Pacient**
+<img width="2542" height="2833" alt="image" src="https://github.com/user-attachments/assets/81a0d5e2-54ef-4212-817a-e25de01cdd9e" />
+
+**Solicitare Programare + Vizualizarea Solicitării de Medic**
+<img width="2540" height="886" alt="image" src="https://github.com/user-attachments/assets/50ba9226-df25-4e95-a7ba-9680beacbc35" />
+<img width="2494" height="331" alt="image" src="https://github.com/user-attachments/assets/a605f018-3be3-40b9-bf26-f7325c7ea82d" />
+
+**Mail Confirmare Programare**
+<img width="2214" height="1078" alt="image" src="https://github.com/user-attachments/assets/afd33fe3-d26d-4def-a709-02faf6bcc0f1" />
+
+**Vizualizare Cont**
+<img width="2542" height="853" alt="image" src="https://github.com/user-attachments/assets/ceb28748-c52c-4842-ac1e-435e2cfeac42" />
 
 ## Funcționalități
 
