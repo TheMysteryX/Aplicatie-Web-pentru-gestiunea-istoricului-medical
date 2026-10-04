@@ -4,7 +4,6 @@
 ![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white)
 ![SQLite/MySQL](https://img.shields.io/badge/DB-SQLite%20%7C%20MySQL-4479A1?logo=mysql&logoColor=white)
 ![Blade](https://img.shields.io/badge/Templates-Blade-F9322C)
-![Status](https://img.shields.io/badge/status-proiect%20de%20licen%C8%9B%C4%83-green)
 
 În acest proiect am implementat o aplicație web ce utilizează framework-ul **Laravel** adaptată necesităților spitalului pentru gestiunea istoricului medical. Sistemul folosește un model de date relațional (MySQL) unde avem entități principale precum **Medic**, **Admin** și **Pacient**, legate prin relații _one-to-many_. Un admin gestionează medicii, iar un medic gestionează pacienții.
 
@@ -330,4 +329,4 @@ Lista completă: `php artisan route:list`.
 
 ## Documentație completă
 
-Documentația detaliată a proiectului (actori, cerințe funcționale și non-funcționale, cazuri și scenarii de utilizare, diagrame UML și ER) se află în lucrarea de licență / fișierul `Documentatie_E-Spital.pdf`.
+Documentația detaliată a proiectului (actori, cerințe funcționale și non-funcționale, cazuri și scenarii de utilizare, diagrame UML și ER) se află in fișierul `Documentatie_E-Spital.pdf`.
